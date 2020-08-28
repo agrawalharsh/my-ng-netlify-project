@@ -1,0 +1,14 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+.content {
+  min-height: calc(100vh - 124px);
+}
+
+.footer {
+  height: 50px;
+  color: rgba(142,142,159,1);
+  background-color: rgba(226,226,228,1);
+}

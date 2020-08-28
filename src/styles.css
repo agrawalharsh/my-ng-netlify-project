@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+	margin: 0;
+}
+
+.horizontal-vert-center{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.flex-vertical-center{
+	display: flex;
+	align-items: center;
+}
+
+.flex-horizontal-center{
+	display: flex;
+	justify-content: center;
+}
